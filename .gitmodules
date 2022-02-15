@@ -1,0 +1,9 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/sdsmt05/project1-backend-expense-reimbursement.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/sdsmt05/project1-frontend-expense-reimbursement.git
+[submodule "Mobile"]
+	path = Mobile
+	url = https://github.com/sdsmt05/project1-mobile-expense-reimbursement.git
